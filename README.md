@@ -143,5 +143,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 AUTHORS
 
-Farid Hashimzade
+Farid Hashimzade <br>
 Tural Bayramlı
